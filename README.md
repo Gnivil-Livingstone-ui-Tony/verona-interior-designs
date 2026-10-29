@@ -69,3 +69,20 @@ IT Student and Web Developer
 ## License
 
 No license has been specified yet. Contact the repository owner for permission before reusing this project's code.
+
+## Project Status
+
+**Status:** Deployed for testing
+
+The VERONA Interior Designs website is hosted on InfinityFree. Some features may require further testing and troubleshooting.
+
+## Live Website
+
+Visit the website: http://gnivil.free.je
+
+## Future Improvements
+
+- Complete testing of all website pages and enquiry submissions.
+- Improve error handling and security.
+- Enhance the administration dashboard.
+- Maintain clear project documentation.
